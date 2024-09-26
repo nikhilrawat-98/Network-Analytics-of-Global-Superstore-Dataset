@@ -1,0 +1,2 @@
+# Network-Analytics-of-Global-Superstore-Dataset
+This project focuses on performing network analysis of the Global Superstore Dataset using various network metrics, community detection techniques &amp; visualization tools. The goal is to uncover insights into product-customer relationships, identify key nodes, &amp; optimize the Global Superstore's operations by leveraging the power of network analytics.
